@@ -58,7 +58,6 @@ Whether you’re drafting a quick response, writing with professionalism, or rep
 - 🔑 OAuth login for Gmail/Outlook integration  
 - 📜 Save and manage email history/drafts  
 - 🎭 More tone options (persuasive, empathetic, concise)  
-- ☁️ Deployment (Frontend → Vercel/Netlify, Backend → Render/Heroku)  
 - 📦 Multi-browser extension support (Firefox, Edge)  
 
 ---
