@@ -47,9 +47,9 @@ Whether you’re drafting a quick response, writing with professionalism, or rep
 - Scalable and secure API layer  
 
 ### 🔹 Chrome Extension  
-- Quick access to AI email assistance inside the browser  
-- Allows drafting replies without switching tabs  
-- Lightweight and fast integration  
+- Brings AI-powered reply generation directly into Gmail
+- Allows quick access to the AI without switching contexts
+- Lightweight and easy to install
 
 ---
 
