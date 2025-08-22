@@ -10,6 +10,10 @@ It combines the power of **Spring AI + Google Gemini API**, a modern **React Vit
 Email Assistance streamlines email communication by generating **smart, tone-adjusted replies** to incoming emails.  
 Whether you’re drafting a quick response, writing with professionalism, or replying on-the-go via the Chrome Extension, this project ensures efficiency and clarity.  
 
+## 🎥 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](https://your-live-demo-link.com)
+
 ---
 
 ## ✨ Key Features  
